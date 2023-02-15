@@ -1,0 +1,48 @@
+html body {
+    height: 100%;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%); 
+}
+
+#principal {
+    background-color: white;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 60px;
+    width: 300px;
+    height: 480px;
+    text-align: center;        
+}
+
+.code {
+    
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 10px;
+    width: 260px;
+    height: 300px;
+    
+}
+.titulo {
+    
+    color: hsl(218, 44%, 22%);
+    font-family: 'Outfit', sans-serif;
+    font-style: bold;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 3px 25px;
+}
+.subtitulo {
+    color: hsl(217, 5%, 50%);
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    margin: 10px 30px;
+}
+.rodape {
+    font-size: 18px;
+    padding-top: 40px;
+    text-align:center; 
+}
